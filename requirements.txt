@@ -1,0 +1,9 @@
+colorama~=0.4.6
+keyboard~=0.13.5
+requests~=2.32.3
+psutil~=6.1.1
+pygame~=2.6.1
+python-nmap~=0.7.1
+asciimatics~=1.15.0
+pyglet~=2.1.2
+speedtest-cli~=2.1.3
